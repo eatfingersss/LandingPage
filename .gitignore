@@ -1,0 +1,8 @@
+.idea
+.idea/*
+.idea/workspace.xml
+**/*.xml
+**/*.txt
+lib
+img
+contactform/
